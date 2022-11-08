@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,18 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.joseph {
+  background-color: red !important;
+  border: black solid 10px !important;
 }
+
+.table-hover tbody tr:hover {
+  color: yellow !important;
+  background-color: brown !important;
+}
+
+/* .table-bordered {
+  border: 5px double orange !important;
+} */
